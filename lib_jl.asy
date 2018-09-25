@@ -2,11 +2,15 @@ import graph_pi;
 import gm_probabilitytree;
 import gm_tableaux;
 
-marker croix(pen sColor)
+marker croix1(pen sColor)
 {
    return marker(scale(2)*rotate(45)*cross(4), sColor);
 }
-   
+
+marker croix2(pen sColor)
+{
+   return marker(scale(2)*cross(4), sColor);
+}
 
 void loadaxis(real xmin, real xmax, real ymin, real ymax)
 {
