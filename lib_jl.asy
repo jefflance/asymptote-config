@@ -1,4 +1,5 @@
 import graph_pi;
+import graph3;
 import gm_probabilitytree;
 import gm_tableaux;
 

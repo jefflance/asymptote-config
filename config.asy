@@ -1,3 +1,3 @@
 import settings;
-settings.outformat = "svg";
+settings.outformat = "pdf";
 //settings.tex = "pdflatex";
