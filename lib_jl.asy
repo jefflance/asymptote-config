@@ -2,6 +2,9 @@ import graph_pi;
 import graph3;
 import gm_probabilitytree;
 import gm_tableaux;
+import geometry;
+
+real w=linewidth();
 
 marker croix1(pen sColor)
 {
