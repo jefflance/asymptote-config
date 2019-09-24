@@ -1,3 +1,8 @@
+usepackage("amsmath,amssymb");
+usepackage("inputenc","utf8");
+usepackage("icomma");
+usepackage("esvect");
+
 import graph_pi;
 import graph3;
 import gm_probabilitytree;
